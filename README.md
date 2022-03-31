@@ -1,6 +1,6 @@
 ### Hi there, I'm Tyler 👋
 
-I'm a 22 year old aspiring fullstack developer! I have been writing code for several years, and have recently found a big interest in web development! I am fluent in JavaScript, HTML, CSS, Java, and Lua! I am also very experienced with OOP concepts and systems analysis & design, as well as database management using SQL. I have a passion for creating a strong user experience in all my projects. I am always eager to learn new things and explore new technologies!!
+I'm a 23 year old aspiring fullstack developer! I have been writing code for several years, and have recently found a big interest in web development! I am fluent in JavaScript, HTML, CSS, Java, and Lua! I am also very experienced with OOP concepts and systems analysis & design, as well as database management using SQL. I have a passion for creating a strong user experience in all my projects. I am always eager to learn new things and explore new technologies!!
 
 ### My plans
 Learn more!
