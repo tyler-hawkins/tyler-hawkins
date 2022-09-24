@@ -6,7 +6,7 @@ I'm a 23 year old aspiring fullstack developer! I have been writing code for sev
 Learn more!
 
 ### What I've been up to
-I am in the middle of [The Odin Project's](https://www.theodinproject.com/dashboard) fullstack JavaScript curriculum. My progress is regularly being posted here on my Github profile. Right now, I'm persistently working on my fullstack skills. My end goal is to create a website where two players can play ♟ chess in the browser!
+I am in the middle of [The Odin Project's](https://www.theodinproject.com/dashboard) Ruby on Rails fullstack curriculum. My progress is regularly being posted here on my Github profile. Right now, I'm persistently working on my fullstack skills.
 
 
 ----
