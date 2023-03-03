@@ -1,12 +1,12 @@
 ### Hi there, I'm Tyler 👋
 
-I'm a 23 year old aspiring fullstack developer! I have been writing code for several years, and have recently found a big interest in web development! I am fluent in JavaScript, HTML, CSS, Java, and Lua! I am also very experienced with OOP concepts and systems analysis & design, as well as database management using SQL. I have a passion for creating a strong user experience in all my projects. I am always eager to learn new things and explore new technologies!!
+I'm a 24 year old aspiring fullstack developer! I have been writing code for several years, and have recently found a big interest in web development! I am fluent in JavaScript, HTML, CSS, Java, and Lua! I am also very experienced with OOP concepts and systems analysis & design, as well as database management using SQL. I have a passion for creating a strong user experience in all my projects. I am always eager to learn new things and explore new technologies!!
 
 ### My plans
-Learn more!
+Learn more and make more cool things!
 
 ### What I've been up to
-I am in the middle of [The Odin Project's](https://www.theodinproject.com/dashboard) Ruby on Rails fullstack curriculum. My progress is regularly being posted here on my Github profile. Right now, I'm persistently working on my fullstack skills.
+Busy at work! When I'm not at work, I'm improving my fullstack skills.
 
 
 ----
